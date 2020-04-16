@@ -5,10 +5,11 @@ Data collection utility for submitting network state date of CRXN to collectd.
 
 ## Usage
 
-*TODO*
+Run as follows, where `<configFile>` is the JSON file with the parameters
+for your submassive node.
 
 ````
-./submassive
+./submassive <configFile>
 ````
 
 ## Build
