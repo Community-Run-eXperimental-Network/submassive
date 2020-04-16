@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Tristan B. Kildaire"
+	],
+	"copyright": "Copyright © 2020, Tristan B. Kildaire",
+	"description": "Data collection utility for submitting network state date of CRXN to collectd.",
+	"license": "GPL v3",
+	"name": "submassive"
+}
